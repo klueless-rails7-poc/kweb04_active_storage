@@ -1,1 +1,1 @@
-json.array! @pins, partial: "pins/pin", as: :pin
+json.array! @pins, partial: 'pins/pin', as: :pin
